@@ -211,7 +211,7 @@ a:hover{
   height: 300px;
   width: 400px;
   margin: 3rem 0 0 0;
-  background-image: url('one_piece.jpg');
+  background-image: url('nebula.jpg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -219,8 +219,7 @@ a:hover{
   justify-content: center;
   align-items: center;
   filter: grayscale(0.5);
-  color: rgb(0, 255, 21);
-  -webkit-text-stroke: 1px black;
+  color: rgb(255, 255, 255);
   cursor: pointer;
   transition: 0.3s;
 }
